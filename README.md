@@ -17,6 +17,14 @@ The key steps followed in the analysis:
 ## About the company  
 Ananya Store is a dynamic clothing retailer known for its wide array of apparel available through top channels such as Myntra, Amazon, Meesho, and various other platforms. Company's mission is to blend creativity with quality, offering customers a seamless shopping experience and stylish wardrobe choices. Ananya Mishra, the visionary owner and Chief Creative Officer, sees the analysis of the 2023 annual sales report as pivotal in gaining profound insights into our customer base, opening the way for substantial sales growth in 2024.
 
+## Store Dataset: 
+
+## Tools Used  
+- Microsoft Excel: Data Cleaning
+- SQL: Data Transformation
+- SQL: Data Analysis
+- Tableau: Data Visualization
+
  
 
 
