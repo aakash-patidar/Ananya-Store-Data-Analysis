@@ -56,6 +56,13 @@ Ananya Mishra, owner and Chief Creative Officer of Ananya Store, encourages the 
 ### Process:  
 The "process" step in data analysis involves cleaning, transforming, and integrating data to make sure it is accurate, consistent, and ready for analysis. This includes tasks like handling missing values, correcting errors, standardizing formats, and merging data from different sources. These steps are essential to ensure the quality and reliability of the data for meaningful analysis.  
 
+The tool we used for the process step is Microsoft Excel. The following actions were performed to clean the data:  
+- **Checking for Duplicates:** Utilized Excel's built-in "Remove Duplicates" feature to identify duplicates. This process ensured data integrity by eliminating any redundant entries.  
+- ** Checking for Blank Values:** Blank values were identified using Excel's Filter option. Removing blanks (or missing values) is a crucial step in data transformation to ensure data completeness and accuracy. This process helps maintain the integrity of the dataset and ensures reliable analysis results.  
+
+
+
+
 
 
 
