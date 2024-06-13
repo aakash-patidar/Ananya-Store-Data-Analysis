@@ -15,4 +15,10 @@ The key steps followed in the analysis:
 - Act
 
 ## About the company  
-Ananya Store is a digital music store company that sells digital audio files of music recordings over the Internet. Collecting data on album, artist, customer, employee, genre and playlist has allowed Beatbox to provide customers gain ownership of a license to use the music files. Jason Furtado, Beatbox’s cofounder and Chief Creative Officer believes that an analysis of music playlist data would reveal more opportunities for growth. 
+Ananya Store is a dynamic clothing retailer known for its wide array of apparel available through top channels such as Myntra, Amazon, Meesho, and various other platforms. Company's mission is to blend creativity with quality, offering customers a seamless shopping experience and stylish wardrobe choices. Ananya Mishra, the visionary owner and Chief Creative Officer, sees the analysis of the 2023 annual sales report as pivotal in gaining profound insights into our customer base, opening the way for substantial sales growth in 2024.
+
+ 
+
+
+
+
