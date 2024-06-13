@@ -56,12 +56,15 @@ Ananya Mishra, owner and Chief Creative Officer of Ananya Store, encourages the 
 ### Process:  
 The "process" step in data analysis involves cleaning, transforming, and integrating data to make sure it is accurate, consistent, and ready for analysis. This includes tasks like handling missing values, correcting errors, standardizing formats, and merging data from different sources. These steps are essential to ensure the quality and reliability of the data for meaningful analysis.  
 
-**Data Cleaning**  
+#### Data Cleaning     
 The tool we used for the process step is Microsoft Excel. The following actions were performed to clean the data:  
 - **Checking for Duplicates:** Utilized Excel's built-in "Remove Duplicates" feature to identify duplicates. This process ensured data integrity by eliminating any redundant entries.  
 - **Checking for Blank Values:** Blank values were checked using Excel's Filter option. Removing blanks (or missing values) is a crucial step in data transformation to ensure data completeness and accuracy. This process helps maintain the integrity of the dataset and ensures reliable analysis results.
 - **Handling Missing Data:** Used Excel's tool like Conditional formatting to identify and handle any missing data.
 - **Validating Column Values:** Validate the data to ensure its accuracy and consistency. In the Gender column, values were inconsistent, with some entries as "M" instead of "Male" and "W" instead of "Women." We standardized the column by changing "M" to "Men" and "W" to "Women" using the Find & Replace option. Similarly, in the Qty column, all values should be numerical, but some entries were written as "ONE" instead of "1" and "Two" instead of "2." We corrected these to ensure consistency in the column.
+
+#### Data Processing  
+
 
 
 
