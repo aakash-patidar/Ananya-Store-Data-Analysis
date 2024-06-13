@@ -36,7 +36,19 @@ Analyze the 2023 annual sales report to gain insights that will guide the compan
 The key stakeholders for this project include:
 - Ananya Mishra: Ananya Store’s owner and Chief Creative Officer  
 - Ananya Store Management team: A management team, a group of high-level associates hired by a owner to take on essential responsibilities within the business
-- Ananya Store Analytics team: A team of data analysts responsible for collecting, analyzing, and reporting data that helps guide Ananya Store’s business strategy
+- Ananya Store Analytics team: A team of data analysts responsible for collecting, analyzing, and reporting data that helps guide Ananya Store’s business strategy  
+
+**To address the business task of analyzing the annual sales report for 2023 to understand the company's customer base and help drive sales growth in 2024, the following questions will guide the analysis:**    
+- Compare the sales and orders using single chart    
+- Which month got the highest sales and orders    
+- Who purchased more: men or women in 2023   
+- What are different order status in 2023    
+- List top 10 states contributing to the sales  
+- Relation between age and gender based on number of orders    
+- Which channel is contributing to maximum sales  
+- Highest selling category?, etc.
+
+
 
  
 
