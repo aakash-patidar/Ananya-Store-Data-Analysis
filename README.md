@@ -61,7 +61,7 @@ The tool we used for the process step is Microsoft Excel. The following actions 
 - **Checking for Duplicates:** Utilized Excel's built-in "Remove Duplicates" feature to identify duplicates. This process ensured data integrity by eliminating any redundant entries.  
 - **Checking for Blank Values:** Blank values were checked using Excel's Filter option. Removing blanks (or missing values) is a crucial step in data transformation to ensure data completeness and accuracy. This process helps maintain the integrity of the dataset and ensures reliable analysis results.
 - **Handling Missing Data:** Used Excel's tool like Conditional formatting to identify and handle any missing data.
-- **Validating Column Values:** Validate the data to ensure its accuracy and consistency. 
+- **Validating Column Values:** Validate the data to ensure its accuracy and consistency. In the Gender columns, some values written as M instead of Male and some are written as W instad of Women. We changed M to Men and W to Women to make the Gender column consistent.
 
 
 
