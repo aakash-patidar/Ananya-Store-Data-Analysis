@@ -48,6 +48,20 @@ The key stakeholders for this project include:
 - Which channel is contributing to maximum sales  
 - Highest selling category?, etc.
 
+### Prepare:  
+The "prepare" phase of the data analysis process involves collecting and preparing the necessary data for analysis. Key steps include identifying data sources such as databases, spreadsheets, or external sources, and then extracting the relevant information.      
+
+Ananya Mishra, owner and Chief Creative Officer of Ananya Store, encourages the use of the 2023 annual sales report, which includes information about orders, customers, shipments, and channels. The dataset is in XLSX format and contains 19 columns, including Index, Order ID, Cust ID, Gender, Age, Date, Status, Channel, SKU, Category, Size, Qty, Currency, Amount, Ship City, Ship State, Ship Postal Code, Ship Country, and B2B.  
+
+
+
+
+
+
+
+
+
+
 
 
  
