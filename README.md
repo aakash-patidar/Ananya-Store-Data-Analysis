@@ -46,7 +46,6 @@ The key stakeholders for this project include:
 - List top 5 states contributing to the sales  
 - Relation between age and gender based on number of orders    
 - Which channel is contributing to maximum sales  
-- Highest selling category?, etc.
 
 ### Prepare:  
 The "prepare" phase of the data analysis process involves collecting and preparing the necessary data for analysis. Key steps include identifying data sources such as databases, spreadsheets, or external sources, and then extracting the relevant information.      
@@ -82,7 +81,7 @@ Tool used to analyze 2023 annual sales: **Pivot Tables**
 
    <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/da0038f1-d3c6-4bd5-8b36-9b69fda6215b">     
 
-3. **Who purchased more: men or women in 2023**  
+2. **Who purchased more: men or women in 2023**  
    A pivot table was created to determine which gender made more purchases. The Gender column was placed in the Rows section, and the Sum of Amount was placed in the Values section to calculate the total purchase amount for each gender.  
 
    <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/20db963c-ef79-4313-b711-b23770b43545">   
@@ -90,6 +89,48 @@ Tool used to analyze 2023 annual sales: **Pivot Tables**
    A pie chart was created to illustrate the purchase distribution between different genders.  
 
    <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/41ec01de-3663-4d69-90af-900549550961">     
+
+3. **What are different order status in 2023**  
+   A pivot table was created to understand different order status in 2023.  
+
+   <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/3caaab17-e2bb-4f9b-a2d9-4ddb49b9b597">  
+
+   A pie chart was created to show different order status in 2023 including cancelled, delivered, refunded and returned.  
+
+   <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/51520826-bc1e-4e63-a424-29a35cf94cb6">     
+   
+4. **List top 5 states contributing to the sales**  
+   A pivot table was created to gain insights on top 5 states cotributing to the most sales.  
+
+   <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/ab358acd-6eb0-4c50-845c-24177075d17b">     
+
+   A bar chart was created to show top 5 states cotributing to the most sales.  
+
+   <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/2575aca8-bf86-4436-9d28-993b5490b43f">  
+
+5. **Relation between age and gender based on number of orders**  
+   A pivot table was created to understand relationships between age and gender based on number of orders  
+
+   <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/f4e38416-d269-4c02-9b64-bd2112bd0158">     
+
+   A column chart was created to show the relationships between age and gender based upon nuber of orders  
+
+   <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/ff918bfb-a814-490a-9933-88e7010f24fc">     
+  
+9. **Which channel is contributing to maximum sales**  
+   A pivot table was created to gain insights on which channel contributing to maximum sales.  
+
+   <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/62b5e158-4cb8-41ae-bce4-4f86831f91e9">   
+   
+   A pie chart was created to show relationships between different channels and their sales.  
+   
+   <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/4e636887-d95f-4e44-b134-38aad2382190">      
+
+
+
+
+
+
 
 
    
