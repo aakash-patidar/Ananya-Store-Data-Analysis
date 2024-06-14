@@ -23,7 +23,7 @@ Ananya Store is a dynamic clothing retailer known for its wide array of apparel 
 - Microsoft Excel: Data Cleaning
 - Microsoft Excel: Data Processing
 - Pivot Tables: Data Analysis
-- Microsoft Excel Charts: Data Visualization
+- Pivot Charts: Data Visualization
 
 ## Data Analysis Process    
 ### Ask:  
