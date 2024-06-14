@@ -64,6 +64,16 @@ The tool we used for the process step is Microsoft Excel. The following actions 
 - **Validating Column Values:** Validate the data to ensure its accuracy and consistency. In the Gender column, values were inconsistent, with some entries as "M" instead of "Male" and "W" instead of "Women." We standardized the column by changing "M" to "Men" and "W" to "Women" using the Find & Replace option. Similarly, in the Qty column, all values should be numerical, but some entries were written as "ONE" instead of "1" and "Two" instead of "2." We corrected these to ensure consistency in the column.
 
 #### Data Processing  
+- In one analysis, we needed to examine the relationship between Age and Gender, but the Age column had too many distinct values, complicating the analysis. To simplify this, we created a new column named Age Group and categorized the ages into three groups: ages below 30 as Young Adults, ages 30 to 49 as Adults, and ages 50 and above as Seniors, using the formula **=IF(E2>=50, "Senior", IF(E2>=30, "Adult", "Young Adult"))**. We then pasted the results as values to streamline data processing.  
+- Next, in another analysis, we needed to identify the highest sales and orders by month. To achieve this, we created a new column named Month and extracted the month from the Date column using the formula **=TEXT(G2, "mmmm")**. We then pasted the results as values to streamline data processing.
+
+
+  <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/97e0d78a-ef11-4aba-8e33-ff516e39adf1">  
+
+
+
+
+  
 
 
 
