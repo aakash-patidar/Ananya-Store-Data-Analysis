@@ -4,7 +4,7 @@
 </p>
 
 ## Scenario
-I am a data analyst working on the analyst team at Ananya Store, a clothing retailer offering a variety of apparel through multiple channels including Myntra, Amazon, Meesho and several other platforms. Ananya Mishra, the owner and Chief Creative Officer of Ananya Store, believes that analyzing the 2023 annual sales report will provide valuable insights into our customer base and help drive sales growth in 2024.
+I am a data analyst working on the analyst team at Ananya Store, a clothing retailer offering a variety of apparel through multiple channels including Myntra, Amazon, Meesho and several other platforms. Ananya Mishra, the owner and Chief Creative Officer of Ananya Store, believes that analyzing the 2023 annual sales will provide valuable insights into our customer base and help drive sales growth in 2024.
 
 The key steps followed in the analysis:  
 - Ask
@@ -15,7 +15,7 @@ The key steps followed in the analysis:
 - Act
 
 ## About the company  
-Ananya Store is a dynamic clothing retailer known for its wide array of apparel available through top channels such as Myntra, Amazon, Meesho, and various other platforms. Company's mission is to blend creativity with quality, offering customers a seamless shopping experience and stylish wardrobe choices. Ananya Mishra, the visionary owner and Chief Creative Officer, sees the analysis of the 2023 annual sales report as pivotal in gaining profound insights into our customer base, opening the way for substantial sales growth in 2024.
+Ananya Store is a dynamic clothing retailer known for its wide array of apparel available through top channels such as Myntra, Amazon, Meesho, and various other platforms. Company's mission is to blend creativity with quality, offering customers a seamless shopping experience and stylish wardrobe choices. Ananya Mishra, the visionary owner and Chief Creative Officer, sees the analysis of the 2023 annual sales as pivotal in gaining profound insights into our customer base, opening the way for substantial sales growth in 2024.
 
 ### Store Dataset: [Ananya_Store_Dataset](https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/blob/main/Ananya%20Store%20Data%20Analysis.xlsx)
 
@@ -38,7 +38,7 @@ The key stakeholders for this project include:
 - Ananya Store Management team: A management team, a group of high-level associates hired by a owner to take on essential responsibilities within the business
 - Ananya Store Analytics team: A team of data analysts responsible for collecting, analyzing, and reporting data that helps guide Ananya Store’s business strategy  
 
-**To address the business task of analyzing the annual sales report for 2023 to understand the company's customer base and help drive sales growth in 2024, the following questions will guide the analysis:**    
+**To address the business task of analyzing the annual sales for 2023 to understand the company's customer base and help drive sales growth in 2024, the following questions will guide the analysis:**    
 - Compare the sales and orders using single chart    
 - Which month got the highest sales and orders    
 - Who purchased more: men or women in 2023   
