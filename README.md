@@ -73,16 +73,55 @@ The tool we used for the process step is Microsoft Excel. The following actions 
 The "Analyze" phase in the data analysis process involves examining the cleaned and prepared data to uncover meaningful insights and trends. In this phase, we analyzed the cleaned 2023 annual sales dataset to uncover trends and relationships that will guide the business in growing sales in 2024.  
 Tool used to analyze 2023 annual sales: **Pivot Tables**  
 
-1. **Compare the sales and orders using a single chart to determine which month had the highest sales and orders**
+1. **Compare the sales and orders using a single chart to determine which month had the highest sales and orders**  
    A pivot table was created to identify relationships between sales and orders for different months. By placing Month in the Rows field and using Sum of Amount and Count of Order ID in the Values field, we were able to analyze the relationship between orders and sales by month.  
    
    <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/759ee802-5799-402f-a3cc-8928a3cecf8e">     
    
-   Based on the created pivot table, a combo chart was created to show the relationships among sales, orders and months.
-     
+   Based on the pivot table, a combo chart was created to show the relationship among sales, orders, and months.     
+
    <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/da0038f1-d3c6-4bd5-8b36-9b69fda6215b">     
 
-2. **
+3. **Who purchased more: men or women in 2023**  
+   A pivot table was created to determine which gender made more purchases. The Gender column was placed in the Rows section, and the Sum of Amount was placed in the Values section to calculate the total purchase amount for each gender.  
+
+   <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/20db963c-ef79-4313-b711-b23770b43545">   
+
+   A pie chart was created to illustrate the purchase distribution between different genders.  
+
+   <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/41ec01de-3663-4d69-90af-900549550961">     
+
+
+   
+
+   
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
 
 ### Share:
 The "Share" phase of the data analysis process involves communicating the results and insights derived from the analysis to stakeholders. This includes summarizing key findings, creating visualizations to present data trends, and providing actionable recommendations for decision-making. Effective communication ensures that stakeholders understand the implications of the data analysis and can use it to inform strategic decisions.  
