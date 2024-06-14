@@ -126,48 +126,31 @@ Tool used to analyze 2023 annual sales: **Pivot Tables**
    
    <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/4e636887-d95f-4e44-b134-38aad2382190">      
 
-
-
-
-
-
-
-
-   
-
-   
-
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-
-### Share:
+### Share:  
 The "Share" phase of the data analysis process involves communicating the results and insights derived from the analysis to stakeholders. This includes summarizing key findings, creating visualizations to present data trends, and providing actionable recommendations for decision-making. Effective communication ensures that stakeholders understand the implications of the data analysis and can use it to inform strategic decisions.  
 
 <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/06204769-c4b7-42ae-b7d7-4d7f21fafdcb">     
+
+Finally, a dashboard was created for the stakeholders to present the key insights from the Ananya Store Annual Report 2023.
+
+1. **Orders vs Sales**  
+The highest sales occurred in March, with a notable drop in subsequent months. There is a general decline in both sales and the number of orders from April onwards.  
+
+2. **Sales: Men vs Women**  
+Women accounted for 64% of the total sales, while men contributed 36%.  
+
+3. **Order Status**  
+A majority of the orders (92%) were delivered. A small percentage of orders were cancelled (3%), returned (3%), or refunded (2%).  
+
+4. **Sales: Top 5 States**  
+The top states contributing to sales are Maharashtra (2.99M), Karnataka (2.65M), Uttar Pradesh (2.10M), Telangana (1.71M), and Tamil Nadu (1.68M).  
+
+5. **Orders: Age vs Gender**  
+Adult women (34.59%) placed the highest percentage of orders. Adult men (21.13%) also had a significant share. Young adults and seniors had lower order percentages, with young adult men at 9.20%, young adult women at 15.47%, senior men at 5.91%, and senior women at 13.70%.  
+
+6. **Orders: Channels**  
+Amazon was the leading sales channel, contributing 35% of orders. Myntra (23%) and Flipkart (22%) were also major contributors. Other channels like Ajio (6%), Meesho (5%), Nalli (5%), and others (4%) had smaller shares.  
+
 
 
 
