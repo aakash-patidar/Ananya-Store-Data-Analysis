@@ -97,7 +97,7 @@ Tool used to analyze 2023 annual sales: **Pivot Tables**
    
    A pie chart was created to display the distribution of different order statuses in 2023, including cancelled, delivered, refunded, and returned orders.  
 
-   <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/3c9ddae7-5594-4114-b6de-fbe0225e6f94">       
+   <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/604b5287-e7fb-4f6d-b876-c9a737db1d4b">       
    
 4. **List top 5 states contributing to the sales**  
    A pivot table was created to identify the top 5 states contributing the most to sales. The Ship-State column was placed in the Rows section, and the Sum of Amount was placed in the Values section. This setup provided insights into the top 5 states with the highest sales contributions.  
