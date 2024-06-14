@@ -91,7 +91,7 @@ Tool used to analyze 2023 annual sales: **Pivot Tables**
    <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/41ec01de-3663-4d69-90af-900549550961">     
 
 3. **What are different order status in 2023**  
-   A pivot table was created to understand different order status in 2023.  
+   A pivot table was created to understand different order status in 2023. The Status column was placed in the Rows section, and the Count of Order ID was placed in the Values section to understand different order status in 2023.  
 
    <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/3caaab17-e2bb-4f9b-a2d9-4ddb49b9b597">  
 
@@ -100,8 +100,8 @@ Tool used to analyze 2023 annual sales: **Pivot Tables**
    <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/51520826-bc1e-4e63-a424-29a35cf94cb6">     
    
 4. **List top 5 states contributing to the sales**  
-   A pivot table was created to gain insights on top 5 states cotributing to the most sales.  
-
+   A pivot table was created to gain insights on top 5 states cotributing to the most sales. The ship-state was placed in the Rows section, and the Sum of Amount was placed in the Values section to gain insights on top 5 states cotributing to the most sales.  
+ 
    <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/ab358acd-6eb0-4c50-845c-24177075d17b">     
 
    A bar chart was created to show top 5 states cotributing to the most sales.  
@@ -109,7 +109,7 @@ Tool used to analyze 2023 annual sales: **Pivot Tables**
    <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/2575aca8-bf86-4436-9d28-993b5490b43f">  
 
 5. **Relation between age and gender based on number of orders**  
-   A pivot table was created to understand relationships between age and gender based on number of orders  
+   A pivot table was created to understand relationships between age and gender based on number of orders. The Age Group column was placed in the Rows section, Gender palced in the Column section, and the Count of Order ID was placed in the Values section to understand relationships between age and gender based on number of orders.     
 
    <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/f4e38416-d269-4c02-9b64-bd2112bd0158">     
 
@@ -118,7 +118,7 @@ Tool used to analyze 2023 annual sales: **Pivot Tables**
    <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/ff918bfb-a814-490a-9933-88e7010f24fc">     
   
 9. **Which channel is contributing to maximum sales**  
-   A pivot table was created to gain insights on which channel contributing to maximum sales.  
+   A pivot table was created to gain insights on which channel contributing to maximum sales. The Channel column was placed in the Rows section, and the Count of Order ID was placed in the Values section to gain insights on which channel contributing to maximum sales.     
 
    <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/62b5e158-4cb8-41ae-bce4-4f86831f91e9">   
    
