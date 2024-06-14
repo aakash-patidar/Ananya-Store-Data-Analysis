@@ -90,7 +90,7 @@ Tool used to analyze 2023 annual sales: **Pivot Tables**
 
    <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/41ec01de-3663-4d69-90af-900549550961">     
 
-3. **What are different order status in 2023**
+3. **What are different order status in 2023**  
    To understand the different order statuses in 2023, a pivot table was created. The Status column was placed in the Rows section, and the Count of Order ID was placed in the Values section. This setup provides a clear view of the various order statuses for the year 2023.
 
    <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/3caaab17-e2bb-4f9b-a2d9-4ddb49b9b597">
@@ -111,16 +111,16 @@ Tool used to analyze 2023 annual sales: **Pivot Tables**
 5. **Relation between age and gender based on number of orders**  
    A pivot table was created to analyze the relationship between age and gender based on the number of orders. The Age Group column was placed in the Rows section, the Gender column was placed in the Columns section, and the Count of Order ID was placed in the Values section. This setup provided insights into how age and gender are related to the number of orders.     
 
-   <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/f4e38416-d269-4c02-9b64-bd2112bd0158">
+   <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/f4e38416-d269-4c02-9b64-bd2112bd0158">  
    
    A column chart was created to illustrate the relationship between age and gender based on the number of orders.  
 
    <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/ff918bfb-a814-490a-9933-88e7010f24fc">     
   
 6. **Which channel is contributing to maximum sales**  
-    A pivot table was created to analyze which sales channel contributes the most to total sales. The Channel column was placed in the Rows section, and the Sum of Amount (or Sum of Sales) was placed in the Values section to determine the channel contributing to maximum sales. This setup provides insights into the sales performance across different channels.  
+    A pivot table was created to analyze which sales channel contributes the most to total sales. The Channel column was placed in the Rows section, and the Count of Order ID was placed in the Values section to determine the channel contributing to maximum sales. This setup provides insights into the sales performance across different channels.  
 
-   <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/62b5e158-4cb8-41ae-bce4-4f86831f91e9">
+   <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/62b5e158-4cb8-41ae-bce4-4f86831f91e9">  
    
    A pie chart was created to visualize the distribution of sales across different channels.  
    
