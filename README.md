@@ -1,6 +1,6 @@
 # Ananya Store Data Analysis
 <p align="center">
-  <img width="400" height="360"src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/dff1aff7-018f-488e-a32e-de74c939ece7">
+  <img width="400" height="360" src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/dff1aff7-018f-488e-a32e-de74c939ece7">
 </p>
 
 ## Scenario
@@ -43,7 +43,7 @@ The key stakeholders for this project include:
 - Which month got the highest sales and orders    
 - Who purchased more: men or women in 2023   
 - What are different order status in 2023    
-- List top 10 states contributing to the sales  
+- List top 5 states contributing to the sales  
 - Relation between age and gender based on number of orders    
 - Which channel is contributing to maximum sales  
 - Highest selling category?, etc.
@@ -65,13 +65,39 @@ The tool we used for the process step is Microsoft Excel. The following actions 
 
 #### Data Processing  
 - In one analysis, we needed to examine the relationship between Age and Gender, but the Age column had too many distinct values, complicating the analysis. To simplify this, we created a new column named Age Group and categorized the ages into three groups: ages below 30 as Young Adults, ages 30 to 49 as Adults, and ages 50 and above as Seniors, using the formula **=IF(E2>=50, "Senior", IF(E2>=30, "Adult", "Young Adult"))**. We then pasted the results as values to streamline data processing.  
-- Next, in another analysis, we needed to identify the highest sales and orders by month. To achieve this, we created a new column named Month and extracted the month from the Date column using the formula **=TEXT(G2, "mmmm")**. We then pasted the results as values to streamline data processing.  
+- Next, in another analysis, we needed to identify the highest sales and orders by month. To achieve this, we created a new column named Month and extracted the month from the Date column using the formula **=TEXT(G2, "mmm")**. We then pasted the results as values to streamline data processing.  
 
-  <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/97e0d78a-ef11-4aba-8e33-ff516e39adf1">  
+  <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/855b71c0-f55b-402c-a124-abfb0e3367e9">  
 
 ### Analyze:  
 The "Analyze" phase in the data analysis process involves examining the cleaned and prepared data to uncover meaningful insights and trends. In this phase, we analyzed the cleaned 2023 annual sales dataset to uncover trends and relationships that will guide the business in growing sales in 2024.  
 Tool used to analyze 2023 annual sales: **Pivot Tables**  
+
+1. **Compare the sales and orders using a single chart to determine which month had the highest sales and orders**
+   A pivot table was created to identify relationships between sales and orders for different months. By placing Month in the Rows field and using Sum of Amount and Count of Order ID in the Values field, we were able to analyze the relationship between orders and sales by month.  
+   
+   <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/759ee802-5799-402f-a3cc-8928a3cecf8e">     
+   
+   Based on the created pivot table, a combo chart was created to show the relationships among sales, orders and months.
+     
+   <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/da0038f1-d3c6-4bd5-8b36-9b69fda6215b">     
+
+2. **
+
+### Share:
+The "Share" phase of the data analysis process involves communicating the results and insights derived from the analysis to stakeholders. This includes summarizing key findings, creating visualizations to present data trends, and providing actionable recommendations for decision-making. Effective communication ensures that stakeholders understand the implications of the data analysis and can use it to inform strategic decisions.  
+
+<img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/06204769-c4b7-42ae-b7d7-4d7f21fafdcb">     
+
+
+
+
+
+   
+
+   
+   
+   
 
 
 
