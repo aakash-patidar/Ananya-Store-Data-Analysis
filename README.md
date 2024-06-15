@@ -129,9 +129,9 @@ Tool used to analyze 2023 annual sales: **Pivot Tables**
 ### Share:  
 The "Share" phase of the data analysis process involves communicating the results and insights derived from the analysis to stakeholders. This includes summarizing key findings, creating visualizations to present data trends, and providing actionable recommendations for decision-making. Effective communication ensures that stakeholders understand the implications of the data analysis and can use it to inform strategic decisions.  
 
-<img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/06204769-c4b7-42ae-b7d7-4d7f21fafdcb">     
+Finally, a dashboard was created for the stakeholders to present the key insights from the Ananya Store Annual Report 2023.  
 
-Finally, a dashboard was created for the stakeholders to present the key insights from the Ananya Store Annual Report 2023.
+<img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/06204769-c4b7-42ae-b7d7-4d7f21fafdcb">     
 
 1. **Orders vs Sales**  
 The highest sales occurred in March, with a notable drop in subsequent months. There is a general decline in both sales and the number of orders from April onwards.  
