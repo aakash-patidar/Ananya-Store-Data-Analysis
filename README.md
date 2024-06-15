@@ -77,7 +77,7 @@ Tool used to analyze 2023 annual sales: **Pivot Tables**
    
    <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/759ee802-5799-402f-a3cc-8928a3cecf8e">     
    
-   Based on the pivot table, a combo chart was created to show the relationship among sales, orders, and months.     
+   Based on the pivot table, a combo chart was created to show the relationship among sales, orders, and months. By looking at the chart, we can easily say, "March" month had the highest sales and orders.     
 
    <img src="https://github.com/aakash-patidar/Ananya-Store-Data-Analysis/assets/171103471/da0038f1-d3c6-4bd5-8b36-9b69fda6215b">     
 
