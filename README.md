@@ -146,9 +146,9 @@ A majority of the orders (92%) were delivered. A small percentage of orders were
 The top 5 states contributing to sales are Maharashtra (2.99M), Karnataka (2.65M), Uttar Pradesh (2.10M), Telangana (1.71M), and Tamil Nadu (1.68M).  
 
 5. **Orders: Age vs Gender**  
-Adult women (34.59%) placed the highest percentage of orders. Adult men (21.13%) also had a significant share. Young adults and seniors had lower order percentages, with young adult men at 9.20%, young adult women at 15.47%, senior men at 5.91%, and senior women at 13.70%.  
+Adult women (34.59%) placed the highest percentage of orders, followed by adult men (15.47%). Young adult women (21.13%) and senior women (13.70%) also placed a significant number of orders, while men in these age groups have lower percentages (9.20% for young adults and 5.91% for seniors). Overall, women consistently place more orders than men across all age groups.  
 
-6. **Orders: Channels**  
+7. **Orders: Channels**  
 Amazon was the leading sales channel, contributing 35% of orders. Myntra (23%) and Flipkart (22%) were also major contributors. Other channels like Ajio (6%), Meesho (5%), Nalli (5%), and others (4%) had smaller shares.
 
 ### Act:  
