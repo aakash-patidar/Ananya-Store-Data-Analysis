@@ -70,6 +70,7 @@ The tool we used for the process step is Microsoft Excel. The following actions 
 
 ### Analyze:  
 The "Analyze" phase in the data analysis process involves examining the cleaned and prepared data to uncover meaningful insights and trends. In this phase, we analyzed the cleaned 2023 annual sales dataset to uncover trends and relationships that will guide the business in growing sales in 2024.  
+
 Tool used to analyze 2023 annual sales: **Pivot Tables**  
 
 1. **Compare the sales and orders using a single chart to determine which month had the highest sales and orders**  
