@@ -50,7 +50,7 @@ The key stakeholders for this project include:
 ### Prepare:  
 The "prepare" phase of the data analysis process involves collecting and preparing the necessary data for analysis. Key steps include identifying data sources such as databases, spreadsheets, or external sources, and then extracting the relevant information.      
 
-Ananya Mishra, owner and Chief Creative Officer of Ananya Store, encourages the use of the 2023 annual sales, which includes information about orders, customers, shipments, and channels. The dataset is in XLSX format and contains 19 columns, including Index, Order ID, Cust ID, Gender, Age, Date, Status, Channel, SKU, Category, Size, Qty, Currency, Amount, Ship City, Ship State, Ship Postal Code, Ship Country, and B2B.  
+Ananya Mishra, owner and Chief Creative Officer of Ananya Store, encourages the use of the 2023 annual sales, which includes information about orders, customers, shipments, and channels. The dataset is in xlsx format and contains 19 columns, including Index, Order ID, Cust ID, Gender, Age, Date, Status, Channel, SKU, Category, Size, Qty, Currency, Amount, Ship City, Ship State, Ship Postal Code, Ship Country, and B2B.  
 
 ### Process:  
 The "process" step in data analysis involves cleaning, transforming, and integrating data to make sure it is accurate, consistent, and ready for analysis. This includes tasks like handling missing values, correcting errors, standardizing formats, and merging data from different sources. These steps are essential to ensure the quality and reliability of the data for meaningful analysis.  
