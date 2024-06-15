@@ -30,7 +30,7 @@ Ananya Store is a dynamic clothing retailer known for its wide array of apparel 
 The "ask" phase of the data analysis process involves recognizing the current problem, understanding stakeholder expectations, defining the business task, and identifying how insights will benefit stakeholders.  
 
 **Business Task:**  
-Analyze the 2023 annual sales report to gain insights that will guide the company in understanding its customer base and help drive sales growth in 2024.  
+Analyze the 2023 annual sales to gain insights that will guide the company in understanding its customer base and help drive sales growth in 2024.  
 
 **Key Stakeholders**  
 The key stakeholders for this project include:
