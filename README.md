@@ -161,7 +161,7 @@ The "Act" phase of the data analysis process is a crucial step where insights de
 - Regional Insights: Maharashtra, Karnataka, and Uttar Pradesh are the top three states contributing to sales, with Maharashtra leading at 2.99M. Focusing marketing efforts and inventory in these regions could enhance sales further.
 - Channel Performance: Amazon is the most effective sales channel, contributing to 35% of the orders, followed by Myntra (23%) and Flipkart (22%). Prioritizing partnerships and promotional activities with these top-performing channels can drive more sales.
 
-#### Recommendation to improve Ananya Store sales in 2024:
+#### Recommendations to improve Ananya Store sales in 2024:  
 - Implement targeted promotions and marketing campaigns leading up to and during high sales months (e.g., March).
 - Develop personalized marketing strategies and loyalty programs aimed at adult women, who are the major contributors to sales.
 - Enhance presence and promotional activities in top-performing states like Maharashtra, Karnataka, and Uttar Pradesh to further capitalize on these strong markets.
