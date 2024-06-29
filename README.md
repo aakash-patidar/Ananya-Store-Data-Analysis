@@ -4,7 +4,7 @@
 </p>
 
 ## Scenario
-I am a data analyst working on the analyst team at Ananya Store, a clothing retailer offering a variety of apparel through multiple channels including Myntra, Amazon, Meesho and several other platforms. Ananya Mishra, the owner and Chief Creative Officer of Ananya Store, believes that analyzing the 2023 annual sales will provide valuable insights into our customer base and help drive sales growth in 2024.
+I am a data analyst working on the analyst team at Ananya Store, a clothing retailer offering a variety of apparel through multiple channels including Myntra, Amazon, Meesho and several other platforms. Ananya Mishra, the owner and Chief Creative Officer of Ananya Store, believes that analyzing the 2023 annual sales will provide valuable insights into our customer base and help drive sales growth in 2024. 
 
 The key steps followed in the analysis:  
 - Ask
